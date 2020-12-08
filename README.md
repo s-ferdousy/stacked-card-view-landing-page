@@ -1,2 +1,2 @@
 # stacked-card-view-landing-page
-Website landing page
+Laguage used: html, css, js
